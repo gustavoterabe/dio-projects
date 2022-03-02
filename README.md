@@ -1,2 +1,2 @@
-# Repositorio DIO projects
-Repositorio para controle de versao de projetos desenvolvidos durantes os cursos ofertados na plataforma Digital Inovation One
+# Repository DIO projects
+Repository to do the version control of project developed in the courses given by the Digital Innovation One Plataform
